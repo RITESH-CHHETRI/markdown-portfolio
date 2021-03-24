@@ -1,1 +1,1 @@
-![Image of Trinity77 PC](https://en.wikipedia.org/wiki/Personal_computer#/media/File:Trinity77.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

@@ -4,4 +4,4 @@
 __I like to read manga__
 _And watch anime_
 
-_You **love** doing both of them together_
+_I **love** doing both of them together_

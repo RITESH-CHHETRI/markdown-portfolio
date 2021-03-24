@@ -1,1 +1,1 @@
-![Image of Altair](https://images.app.goo.gl/XDj9j84krNLTBE998)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

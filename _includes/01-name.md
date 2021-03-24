@@ -1,6 +1,4 @@
-# I am the biggest :elephant:
-## Just second to you :ox:
-### Somewhere in middle :pig2:
-#### Somesomewhere in middle :dog2:
-##### Not last :mouse2:
-###### Might get squashed :bug:
+# Hello there!
+## I am Ritesh Chhetri
+### First year CSE student from AISAT
+#### Nice to meet you

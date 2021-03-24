@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Trinity77 PC](https://en.wikipedia.org/wiki/Personal_computer#/media/File:Trinity77.jpg)

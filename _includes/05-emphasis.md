@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I love cooking**
+*And eating!*
+
+__I like to read manga__
+_And watch anime_
+
+_You **love** doing both of them together_
